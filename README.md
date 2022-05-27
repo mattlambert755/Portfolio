@@ -5,7 +5,7 @@
 * Master of Business Administration (M.B.A.), St. Louis University
 * Bachelors of Science (B.S.), Southern Illinois University
 
-# [Project 1: Crypto Sentiment Analysis](http://youtube.com/dataprofessor)
+# [YouTube Channel](https://www.youtube.com/channel/UCPZSDOc-UA_SMbg-OsFGhJg)
 
 This project integrates various news source for performing sentiment analysis pertaining to cryptocurrencies.
 * **Python libraries used:** Streamlit, Huggingface, TensorFlow
