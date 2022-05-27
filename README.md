@@ -7,9 +7,6 @@
 
 # [YouTube Channel](https://www.youtube.com/channel/UCPZSDOc-UA_SMbg-OsFGhJg)
 
-# [Project 2: Crypto Trading Bot](http://youtube.com/dataprofessor)
+# [Project 1: freeCodeCamp Survey Form](https://mattlambert755.github.io/FCC-Survey-Form-Clone/)
 
-This project makes use of ***sentiment analysis*** of cryptocurrency coupled with ***technical analysis*** in the trading of cryptocurrencies.
-* **Python libraries used:** Streamlit, python-binance, cctx, talib
-* **Input:** Cryptocurrency historical price
-* **Output:** Trading signals triggers buying and selling
+
