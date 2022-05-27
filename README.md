@@ -1,5 +1,3 @@
-# Matt Lambert
-
 # Education
 * Master of Business Administration (M.B.A.), St. Louis University
 * Bachelors of Science (B.S.), Southern Illinois University
